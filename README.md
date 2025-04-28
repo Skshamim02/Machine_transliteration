@@ -1,4 +1,4 @@
-# Assamese Roman Script Transliteration (BiLSTM Model)
+# Assamese Roman Script Transliteration 
 
 This project builds and trains a deep learning model for **transliterating Romanized Assamese words** into the native Assamese script using a **BiLSTM**-based sequence-to-sequence model with TensorFlow and Keras.
 
